@@ -1,3 +1,3 @@
 module MessagePack
-	VERSION = "0.5.12"
+	VERSION = "0.5.10"
 end
